@@ -1,0 +1,5 @@
+This clustering analysis for the household size of London population will make use of the knowledge finding of what areas are in the same cluster and organised into segments. Different clustering methods will be analysed in this analysis. 
+
+1.K-Means
+2.Hierarchical clustering
+3.DBSCAN 
